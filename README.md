@@ -28,6 +28,7 @@ copyrights may apply to the schematics / fonts etc.
 - [Groupie](Groupie): Bypass a chain of effects
 - TODO Amplifier/Attenuator to connect guitar to eurorack and the other way around. 1U Tile
 - TODO PSU - 12V to multiple isolated 9V
+- TODO In/Out - 6.35mm to 3.5mm Input, 3.5mm to 6.35mm Output
  
 #### Fuzz 
 - [Randy's Gut](Randys_Gut) (EQD Dirt Transmitter clone)
