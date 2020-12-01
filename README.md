@@ -22,8 +22,13 @@ I would not recommend using commercially since
 copyrights may apply to the schematics / fonts etc.
 
 
-### List of effects
+### List of pedals
 
+#### Utility
+- [Groupie](Groupie): Bypass a chain of effects
+- TODO Amplifier/Attenuator to connect guitar to eurorack and the other way around. 1U Tile
+- TODO PSU - 12V to multiple isolated 9V
+ 
 #### Fuzz 
 - [Randy's Gut](Randys_Gut) (EQD Dirt Transmitter clone)
 - [Zeus](Zeus) (Similar to EQD Blach Ash)
