@@ -9,7 +9,7 @@ Schematic based on the EQD Tentacle.
 
 ##### Front
 
-![alt text](Poseidon_Front.png?raw=true)
+![alt text](Poseidon_Front.png?raw=true){:height="50%" width="50%"}
 
 ##### Back
 
