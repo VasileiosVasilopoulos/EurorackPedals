@@ -19,4 +19,4 @@ Schematic based on the EQD Tentacle.
 
 Front             |  Back
 :-------------------------:|:-------------------------:
-<img src="Poseidon_Front.png?raw=true" width="50%" height="50%">  |  <img src="Poseidon_Back.png?raw=true" width="50%" height="50%">
+<img src="Poseidon_Front.png?raw=true" width="40%" height="40%">  |  <img src="Poseidon_Back.png?raw=true" width="40%" height="40%">
