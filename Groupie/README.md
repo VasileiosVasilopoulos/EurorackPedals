@@ -1,11 +1,11 @@
 ## Groupie
 
-Utility
+Utility  
 
-Designed by Vasilopoulos Vasileios
-email : vvasilopoulos99@gmail.com
+Designed by Vasilopoulos Vasileios  
+email : vvasilopoulos99@gmail.com  
 
-Utility module to add True Bypass to a series of other modules.
+Utility module to add True Bypass to a series of other modules.  
 
 ### Board Preview: 
 
