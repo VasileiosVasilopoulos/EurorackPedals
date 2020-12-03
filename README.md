@@ -1,6 +1,6 @@
 ## Eurorack Pedals
 
-Collection of Guitar and Bass Pedal pcbs designed to fit the Eurorack format.
+Collection of Guitar and Bass Pedal pcbs designed to fit the [Eurorack](https://en.wikipedia.org/wiki/Eurorack) format.
 designed with the free version of [Eagle](https://www.autodesk.com/products/eagle/free-download?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1).
 
 The Eurorack specifications followed are:
@@ -8,11 +8,15 @@ The Eurorack specifications followed are:
 - Height 3U 
 - Width>10HP.  
 
-The width spec ensures that there is enough space between the footswitch of subsequent modules.
+The width specification ensures that there is enough space between the footswitch of subsequent modules.
 
 The power does not follow the Eurorack format since most analog pedals need a 9V input.
 
 To connect a chain of pedals to classic Eurorack modules, the signal needs to be amplified.
+
+For more information contact me at: 
+email: vvasilopoulos99@gmail.com
+linkedin: www.linkedin.com/in/vasileios-vasilopoulos
 
 ### Licence
 
@@ -20,7 +24,6 @@ The designs are free to use non-commercially.
 
 I would not recommend using commercially since 
 copyrights may apply to the schematics / fonts etc.
-
 
 ### List of pedals
 
@@ -32,11 +35,11 @@ copyrights may apply to the schematics / fonts etc.
 - TODO In/Out - 6.35mm to 3.5mm Input, 3.5mm to 6.35mm Output
  
 #### Fuzz 
-- [Randy's Gut](Randys_Gut) (EQD Dirt Transmitter clone)
+- [Randy's Gut](Randys_Gut) (Similar to EQD Dirt Transmitter)
 - [Zeus](Zeus) (Similar to EQD Blach Ash)
 
 #### Octaver
-- [Poseidon](Poseidon) (EQD Tentacle clone)
+- [Poseidon](Poseidon) (Similar to EQD Tentacle)
 
 ### Resources 
 
