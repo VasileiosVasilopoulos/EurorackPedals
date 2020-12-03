@@ -25,6 +25,7 @@ copyrights may apply to the schematics / fonts etc.
 ### List of pedals
 
 #### Utility
+- [3PDT](3PDT_Breakout) Foot Switch Breakout Board
 - [Groupie](Groupie): Bypass a chain of effects
 - TODO Amplifier/Attenuator to connect guitar to eurorack and the other way around. 1U Tile
 - TODO PSU - 12V to multiple isolated 9V
@@ -36,12 +37,6 @@ copyrights may apply to the schematics / fonts etc.
 
 #### Octaver
 - [Poseidon](Poseidon) (EQD Tentacle clone)
-
-#### Digital
-- [Deep Space](DeepSpace) (Add-on shield for teensy with Audioshield)
-
-#### Other
-- [3PDT](3PDT_Breakout) Foot Switch Breakout Board
 
 ### Resources 
 
