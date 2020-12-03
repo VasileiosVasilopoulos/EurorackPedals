@@ -14,9 +14,9 @@ The power does not follow the Eurorack format since most analog pedals need a 9V
 
 To connect a chain of pedals to classic Eurorack modules, the signal needs to be amplified.
 
-For more information contact me at: 
-email: vvasilopoulos99@gmail.com
-linkedin: www.linkedin.com/in/vasileios-vasilopoulos
+For more information contact me at:  
+email: vvasilopoulos99@gmail.com  
+linkedin: www.linkedin.com/in/vasileios-vasilopoulos  
 
 ### Licence
 
